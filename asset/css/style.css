@@ -1,1 +1,10 @@
 /* inital comments */
+.newtable{
+ 
+  border: solid 1px #000;
+  border-collapse:collapse ;
+}
+.tr,th,td{
+  border: solid 1px #000;
+  padding: 20px;
+}
